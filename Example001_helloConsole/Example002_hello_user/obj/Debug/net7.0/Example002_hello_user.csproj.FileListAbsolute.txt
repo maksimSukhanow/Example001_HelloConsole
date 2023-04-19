@@ -1,0 +1,15 @@
+C:\Users\Максим.DESKTOP-AS03278\Desktop\языки программирования\Examples\Example001_helloConsole\Example002_hello_user\bin\Debug\net7.0\Example002_hello_user.exe
+C:\Users\Максим.DESKTOP-AS03278\Desktop\языки программирования\Examples\Example001_helloConsole\Example002_hello_user\bin\Debug\net7.0\Example002_hello_user.deps.json
+C:\Users\Максим.DESKTOP-AS03278\Desktop\языки программирования\Examples\Example001_helloConsole\Example002_hello_user\bin\Debug\net7.0\Example002_hello_user.runtimeconfig.json
+C:\Users\Максим.DESKTOP-AS03278\Desktop\языки программирования\Examples\Example001_helloConsole\Example002_hello_user\bin\Debug\net7.0\Example002_hello_user.dll
+C:\Users\Максим.DESKTOP-AS03278\Desktop\языки программирования\Examples\Example001_helloConsole\Example002_hello_user\bin\Debug\net7.0\Example002_hello_user.pdb
+C:\Users\Максим.DESKTOP-AS03278\Desktop\языки программирования\Examples\Example001_helloConsole\Example002_hello_user\obj\Debug\net7.0\Example002_hello_user.csproj.AssemblyReference.cache
+C:\Users\Максим.DESKTOP-AS03278\Desktop\языки программирования\Examples\Example001_helloConsole\Example002_hello_user\obj\Debug\net7.0\Example002_hello_user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим.DESKTOP-AS03278\Desktop\языки программирования\Examples\Example001_helloConsole\Example002_hello_user\obj\Debug\net7.0\Example002_hello_user.AssemblyInfoInputs.cache
+C:\Users\Максим.DESKTOP-AS03278\Desktop\языки программирования\Examples\Example001_helloConsole\Example002_hello_user\obj\Debug\net7.0\Example002_hello_user.AssemblyInfo.cs
+C:\Users\Максим.DESKTOP-AS03278\Desktop\языки программирования\Examples\Example001_helloConsole\Example002_hello_user\obj\Debug\net7.0\Example002_hello_user.csproj.CoreCompileInputs.cache
+C:\Users\Максим.DESKTOP-AS03278\Desktop\языки программирования\Examples\Example001_helloConsole\Example002_hello_user\obj\Debug\net7.0\Example002_hello_user.dll
+C:\Users\Максим.DESKTOP-AS03278\Desktop\языки программирования\Examples\Example001_helloConsole\Example002_hello_user\obj\Debug\net7.0\refint\Example002_hello_user.dll
+C:\Users\Максим.DESKTOP-AS03278\Desktop\языки программирования\Examples\Example001_helloConsole\Example002_hello_user\obj\Debug\net7.0\Example002_hello_user.pdb
+C:\Users\Максим.DESKTOP-AS03278\Desktop\языки программирования\Examples\Example001_helloConsole\Example002_hello_user\obj\Debug\net7.0\Example002_hello_user.genruntimeconfig.cache
+C:\Users\Максим.DESKTOP-AS03278\Desktop\языки программирования\Examples\Example001_helloConsole\Example002_hello_user\obj\Debug\net7.0\ref\Example002_hello_user.dll
